@@ -30,12 +30,12 @@ This challenge aims to advance research within:
 - Propagation of mixed aleatory and epistemic uncertainties through system models
 - Design optimization in the presence of uncertainty
 
-## Register for the 2025 UQ Challenge
+## ✒️ Register for the 2025 UQ Challenge
 Each participating group should first register by sending an email to [uqchallenge@dnv.com](mailto:uqchallenge@dnv.com) including the name of all the participants, their email addresses, and affiliations. Please also indicate who will be the point of contact for the group.
 
 Accepted responses to the challenge will be part of a dedicated session of the [ESREL 2025 conference](https://esrel2025.com/) to be held in Stavanger, Norway, from 15-19 June 2025. Registration to the conference is done separately through the conference website.
 
-## Timeline
+## ⌚ Timeline
 - **December 27th:** Deadline for registering new teams  
 - **January 6th:** Start of challenge. Access to simulation models and data will be opened.  
 - **March 17th:** First paper deadline. We aim to review and provide feedback to each team within 1 week (by March 24th).  

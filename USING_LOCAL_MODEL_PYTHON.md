@@ -7,14 +7,14 @@ This guide explains how to use the provided example script `run_model.py`, which
 
 ## 🧵 Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Requirements](#requirements)  
-3. [Setting Up the Script](#setting-up-the-script)  
-4. [Step-by-Step Instructions](#step-by-step-instructions)  
-   - [Section 1: Creating Input and Calling the Executable](#section-1)  
-   - [Section 2: Post-processing the Output](#section-2)  
-5. [Troubleshooting](#troubleshooting)  
-6. [Conclusion](#conclusion)
+1. [Introduction](#-introduction)  
+2. [Requirements](#-requirements)  
+3. [Setting Up the Script](#-setting-up-the-script)  
+4. [Step-by-Step Instructions](#-step-by-step-instructions)  
+   - [Section 1: Creating Input and Calling the Executable](#-section-1-creating-input-and-calling-the-executable)  
+   - [Section 2: Post-processing the Output](#-section-2-post-processing-the-output)  
+5. [Troubleshooting](#️-troubleshooting)  
+6. [Conclusion](#-conclusion)
 
 ---
 

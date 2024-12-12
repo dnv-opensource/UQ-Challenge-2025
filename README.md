@@ -10,8 +10,8 @@ The challenge will run from January 6th to March 31st, 2025, and accepted respon
 
 ## Table of Contents
 - [Motivation](#motivation)
-- [Register for the 2025 UQ Challenge](#[-register-for-the-2025-uq-challenge])
-- [Timeline](#-timeline)
+- [Register for the 2025 UQ Challenge](#register-for-the-2025-uq-challenge)
+- [Timeline](#timeline)
 - [Problem description](#problem-description)
 - [How to access the local computational model](#how-to-access-the-local-computational-model)
 - [How to generate data from the real system](#how-to-generate-data-from-the-real-system)

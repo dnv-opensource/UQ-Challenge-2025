@@ -1,7 +1,7 @@
 # The NASA and DNV Challenge on Optimization Under Uncertainty  
 <p align="center">
-    <img src="./img/NASA-Logo-Large.png" alt="NASA Logo" height="150" />
-    <img src="./img/DNV_logo_RGB.png" alt="DNV Logo" height="150" />
+    <img src="./assets/NASA-Logo-Large.png" alt="NASA Logo" height="150" />
+    <img src="./assets/DNV_logo_RGB.png" alt="DNV Logo" height="150" />
 </p>
 
 The 2025 UQ Challenge presents a problem designed to bring researchers together to tackle a problem common to many complex real-world systems. 

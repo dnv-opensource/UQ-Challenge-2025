@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CREATING_STC_ACCOUNT.md
+  - README.md
+  - USING_LOCAL_MODEL_MATLAB.md
+  - USING_LOCAL_MODEL_PYTHON.md
+  - USING_STC.md

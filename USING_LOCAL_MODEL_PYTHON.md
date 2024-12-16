@@ -147,7 +147,7 @@ df = df.drop(columns=[6])
 #### ✅ Step 3: Reshape the Output Data
 
 ```python
-# Convert the DataFrame to a NumPy array and reshape it to 3D (num_samples, 60 timesteps, 6 features)
+# Convert the DataFrame to a NumPy array and reshape into the desired 3D format (num_time_steps x num_features x num_samples)
 Y_out = df.to_numpy().reshape(num_samples, 60, 6).transpose(1, 2, 0)
 ```
 

@@ -57,7 +57,14 @@ The local model will be provided as a 'black box' compiled binary. An example of
 ## How to generate data from the real system
 Each participating team will get access to an online solution for generating (synthetic) data from the real system with the control parameter $X_c$ they specify. 
 
-TODO: include guidance on this. include STC logo and screenshot of the tool.
+<p align="center">
+    <img src="./assets/DefaultProject.png" alt="Default" height="150" />
+    <img src="./assets/DNV_logo_RGB.png" alt="DNV Logo" height="150" />
+</p>
+
+To access this solution: 
+1) Create an account on the Simulation Trust Center (STC) as explained [here](CREATING_STC_ACCOUNT.md).
+2) Access the UQ Challenge project and run experiments as explained [here](USING_STC.md). 
 
 ## How to submit numerical results
 To submit the numerical results, please see the example in [results_template](./results_template/). 

@@ -58,8 +58,8 @@ The local model will be provided as a 'black box' compiled binary. An example of
 Each participating team will get access to an online solution for generating (synthetic) data from the real system with the control parameter $X_c$ they specify. 
 
 <p align="center">
-    <img src="./assets/DefaultProject.png" alt="Default" height="150" />
-    <img src="./assets/DNV_logo_RGB.png" alt="DNV Logo" height="150" />
+    <img src="./assets/DefaultProject.png" alt="STC" height="150" />
+    <img src="./assets/SimulationsPage_cropped.png" alt="sim cropped" height="150" />
 </p>
 
 To access this solution: 

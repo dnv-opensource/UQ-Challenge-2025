@@ -3,6 +3,9 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+use_math: true # true to enable math support
+
 include:
   - CREATING_STC_ACCOUNT.md
   - README.md

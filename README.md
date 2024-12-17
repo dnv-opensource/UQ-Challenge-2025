@@ -52,13 +52,13 @@ The official problem description can be found on the NASA website [here](https:/
 ## How to access the local computational model 
 **Link to local simulation model:** *Will be available January 6th.*
 
-The simulation model will take as input a vector: $$\textbf{X} = (\textbf{X}_a, \textbf{X}_e, \textbf{X}_c, \omega)$$
- Consisting of aleatory, epistemic, and control variables with dimensionalities $n_a = 2$, $n_e = 3$, and $n_c = 3$, respectively. Additionally, there is an aleatory variable $\omega$ representing the random seed.
+The simulation model will take as input a vector $$\textbf{X} = (\textbf{X}_a, \textbf{X}_e, \textbf{X}_c, \omega)$$
+ consisting of aleatory, epistemic, and control variables with dimensionalities $$n_a = 2$$, $$n_e = 3$$, and $$n_c = 3$$, respectively. Additionally, there is an aleatory variable $$\omega$$ representing the random seed.
 
 The local model will be provided as a 'black box' compiled binary. An example of how to run this model is provided for [Python](USING_LOCAL_MODEL_PYTHON.md) and [MATLAB](USING_LOCAL_MODEL_MATLAB.md).
 
 ## How to generate data from the real system
-Each participating team will get access to an online solution for generating (synthetic) data from the real system with the control parameter $X_c$ they specify. 
+Each participating team will get access to an online solution for generating (synthetic) data from the real system with the control parameter $$X_c$$ they specify. 
 
 <p align="center">
     <img src="./assets/DefaultProject.png" alt="STC" height="150" />

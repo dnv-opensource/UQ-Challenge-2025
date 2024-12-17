@@ -6,9 +6,12 @@ relative_links:
 
 use_math: true # true to enable math support
 
+markdown: kramdown
+
 include:
   - CREATING_STC_ACCOUNT.md
   - README.md
   - USING_LOCAL_MODEL_MATLAB.md
   - USING_LOCAL_MODEL_PYTHON.md
   - USING_STC.md
+  - POSTPROCESS_STC_RESULTS.md

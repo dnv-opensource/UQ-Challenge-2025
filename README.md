@@ -57,6 +57,8 @@ The simulation model will take as input a vector $$\textbf{X} = (\textbf{X}_a, \
 
 The local model will be provided as a 'black box' compiled binary. An example of how to run this model is provided for [Python](USING_LOCAL_MODEL_PYTHON.md) and [MATLAB](USING_LOCAL_MODEL_MATLAB.md).
 
+To test your setup before the challenge is launched, you can download a "dummy" model available [here](https://github.com/dnv-opensource/UQ-Challenge-2025/releases/tag/0.0.1). This takes as input a vector of the same format as the "real" model and returns an array of the correct shape but with only zeros.
+
 ## How to generate data from the real system
 Each participating team will get access to an online solution for generating (synthetic) data from the real system with the control parameter $$X_c$$ they specify. 
 

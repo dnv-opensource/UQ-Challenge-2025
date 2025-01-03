@@ -71,7 +71,8 @@ To access this solution:
 1) Create an account on the Simulation Trust Center (STC) as explained [here](CREATING_STC_ACCOUNT.md).
 2) Access the UQ Challenge project and run experiments as explained [here](USING_STC.md).
 
-**Note:** We have included an [example output file](https://github.com/dnv-opensource/UQ-Challenge-2025/blob/main/Y_out_example.csv) from the real system, which you can use for analysis before you have completed the setup of your account to run experiments yourself. For this dataset, we have used the initial baseline design $$X_c = [0.533, 0.666, 0.5]$$
+**Note:** We have included an [example output file](https://github.com/dnv-opensource/UQ-Challenge-2025/blob/main/Y_out_example.csv) from the real system, which you can use for analysis before you have completed the setup of your account to run experiments yourself. For this dataset, we have used the initial baseline design $$X_c = [0.533, 0.666, 0.5]$$.
+
 Please follow this [tutorial](https://github.com/dnv-opensource/UQ-Challenge-2025/blob/main/POSTPROCESS_STC_RESULTS.md) for information on how to post-process these output files. 
 
 ## How to submit numerical results

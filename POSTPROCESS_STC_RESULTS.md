@@ -4,7 +4,7 @@
 </div>
 
 ## Post-processing Simulation Trust Center results
-After you simulate in STC, you'll be able to download a zip file that contains the time-series results of your simulation.
+After you simulate in STC, you'll be able to download a zip file that contains the time-series results of your simulation. For each simulation call for a set of control parameters, the model will generate 100 samples. Please follow the examples below for information on how to post process the resulting output file. 
 
 To learn how to simulate in STC please follow this guide [here](USING_STC.md)
 

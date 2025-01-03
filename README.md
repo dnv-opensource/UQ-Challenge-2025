@@ -61,6 +61,7 @@ To test your setup before the challenge is launched, you can download a "dummy" 
 
 ## How to generate data from the real system
 Each participating team will get access to an online solution for generating (synthetic) data from the real system with the control parameter $$X_c$$ they specify. 
+The simulation budget for each team is set to N=10, which means you can generate data for 10 different sets of control parameters. For each simulation call for a set of control parameters, the model will generate K=100 samples. Please read section 4.1 in the [problem description](https://uqtools.larc.nasa.gov/the-nasa-and-dnv-challenge-on-optimization-under-uncertainty/) for further details regarding the simulation budget 
 
 <p align="center">
     <img src="./assets/DefaultProject.png" alt="STC" height="150" />

@@ -50,7 +50,7 @@ See also [https://esrel2025.com/](https://esrel2025.com/) for deadlines regardin
 The official problem description can be found on the NASA website [here](https://uqtools.larc.nasa.gov/the-nasa-and-dnv-challenge-on-optimization-under-uncertainty/).
 
 ## How to access the local computational model 
-**Link to local simulation model:** *Will be available January 6th.*
+**Link to local simulation model:** Can be downloaded [here](https://github.com/dnv-opensource/UQ-Challenge-2025/releases/tag/0.0.2)
 
 The simulation model will take as input a vector $$\textbf{X} = (\textbf{X}_a, \textbf{X}_e, \textbf{X}_c, \omega)$$
  consisting of aleatory, epistemic, and control variables with dimensionalities $$n_a = 2$$, $$n_e = 3$$, and $$n_c = 3$$, respectively. Additionally, there is an aleatory variable $$\omega$$ representing the random seed.

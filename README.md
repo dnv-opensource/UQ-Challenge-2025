@@ -49,6 +49,10 @@ See also [https://esrel2025.com/](https://esrel2025.com/) for deadlines regardin
 ## Problem description
 The official problem description can be found on the NASA website [here](https://uqtools.larc.nasa.gov/the-nasa-and-dnv-challenge-on-optimization-under-uncertainty/).
 
+Some additional details for Problem 2: Design optimization
+- The system outputs in $$I_1$$ corresponds to outputs $$(y_1, y_2, y_3)$$ from the simulation model and the outputs in $$I_2$$ corresponds to outputs $$(y_4, y_5, y_6)$$. Furter information about the format of the output data is provided in the sections below. 
+- For the limit state functions, the constants $$c_i$$ are set to $$c_1 = 2750, c_2 = 2000, c_3 = 1000$$. 
+
 ## How to access the local computational model 
 **Link to local simulation model:** Can be downloaded [here](https://github.com/dnv-opensource/UQ-Challenge-2025/releases/tag/0.0.2)
 

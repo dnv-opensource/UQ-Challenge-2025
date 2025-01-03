@@ -71,7 +71,7 @@ To access this solution:
 1) Create an account on the Simulation Trust Center (STC) as explained [here](CREATING_STC_ACCOUNT.md).
 2) Access the UQ Challenge project and run experiments as explained [here](USING_STC.md).
 
-**Note:** We have included an example output file from the real system here, which you can use for analysis before you have completed the setup of your account to run experiments yourself. Please follow the tutorial [here](https://github.com/dnv-opensource/UQ-Challenge-2025/blob/main/POSTPROCESS_STC_RESULTS.md) for information on how to post-process these output files. 
+**Note:** We have included an example output file from the real system [here](https://github.com/dnv-opensource/UQ-Challenge-2025/blob/main/Y_out_example.csv), which you can use for analysis before you have completed the setup of your account to run experiments yourself. Please follow the tutorial [here](https://github.com/dnv-opensource/UQ-Challenge-2025/blob/main/POSTPROCESS_STC_RESULTS.md) for information on how to post-process these output files. 
 
 ## How to submit numerical results
 To submit the numerical results, please see the example in [results_template](https://github.com/dnv-opensource/UQ-Challenge-2025/tree/main/results_template). 

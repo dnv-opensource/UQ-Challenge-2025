@@ -79,7 +79,7 @@ Afterwards, you'll find the simulation in the completed simulations section, cli
 
 To test new control inputs, follow these steps again and don't forget to save your project changes!
 
-If you want to run some post-processing on the results, i.e. running Python code then look at [this tutorial](POSTPROCESS_STC_RESULTS.MD)
+If you want to run some post-processing on the results, i.e. running Python code then look at [this tutorial](https://github.com/dnv-opensource/UQ-Challenge-2025/blob/main/POSTPROCESS_STC_RESULTS.md)
 
 ## Important notes
 

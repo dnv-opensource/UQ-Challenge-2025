@@ -49,7 +49,13 @@ See also [https://esrel2025.com/](https://esrel2025.com/) for deadlines regardin
 ## Problem description
 The official problem description can be found on the NASA website [here](https://uqtools.larc.nasa.gov/the-nasa-and-dnv-challenge-on-optimization-under-uncertainty/).
 
-Some additional details for Problem 2: Design optimization
+**Some additional details and clarifications**
+
+Problem 1: Creation of the Uncertainty Model 
+- We have provided an example dataset using a baseline design $$X_c$$ to get you started, but for creating your UM you are free to sample additional data from whichever $$X_c$$ you choose, within your allocated simulation budget. However, in your paper, please evaluate and discuss how the sampled data impacts your answer.
+- Please read through the sections below for further information about how to generate data as well as the section on Actions and Deliverables in the [problem description](https://uqtools.larc.nasa.gov/the-nasa-and-dnv-challenge-on-optimization-under-uncertainty/)
+
+Problem 2: Design optimization
 - The system outputs in $$I_1$$ corresponds to outputs $$(y_1, y_2, y_3)$$ from the simulation model and the outputs in $$I_2$$ corresponds to outputs $$(y_4, y_5, y_6)$$. Furter information about the format of the output data is provided in the sections below. 
 - For the limit state functions, the constants $$c_i$$ are set to $$c_1 = 2750, c_2 = 2000, c_3 = 1000$$. 
 

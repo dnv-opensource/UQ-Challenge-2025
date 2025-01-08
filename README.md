@@ -38,7 +38,7 @@ Each participating group should first register by sending an email to [uqchallen
 Accepted responses to the challenge will be part of a dedicated session of the [ESREL 2025 conference](https://esrel2025.com/) to be held in Stavanger, Norway, from 15-19 June 2025. Registration to the conference is done separately through the conference website.
 
 ## Timeline
-- **December 27th:** Deadline for registering new teams  
+- **December 27th:** Deadline for registering new teams. Missed the deadline but still interested in participating? Feel free to email us, and we’ll do our best to accommodate late registrations.    
 - **January 6th:** Start of challenge. Access to simulation models and data will be opened.  
 - **March 17th:** First paper deadline. We aim to review and provide feedback to each team within 1 week (by March 24th).  
 - **March 31st:** Deadline for submitting numerical results. See [How to submit numerical results](#how-to-submit-numerical-results).
